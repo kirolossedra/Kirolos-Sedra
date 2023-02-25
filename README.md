@@ -5,5 +5,10 @@ Iam a software Engineer looking for new experiences and challenges and looking f
 
 
 
-# Iam Familiar with 
+#  <p align="center"> Iam Familiar with </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
