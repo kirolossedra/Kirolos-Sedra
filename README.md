@@ -15,7 +15,6 @@ Iam a software Engineer looking for new experiences and challenges and looking f
 </p>
 
 # <p align="center">![](https://github-readme-stats.vercel.app/api?username=kirolossedra&show_icons=true&theme=transparent)  </p>
-![](https://komarev.com/ghpvc/?username=kirolossedra)
 
 
 
