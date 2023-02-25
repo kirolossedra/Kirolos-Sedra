@@ -1,4 +1,5 @@
-# <p align="center">Hello 👋 , [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Iam+Kirolos+Sedray)](https://git.io/typing-svg) </p>
+# <p align="center">Hello 👋  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Iam+Kirolos+Sedra)](https://git.io/typing-svg)
 
 
 
