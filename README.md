@@ -6,7 +6,7 @@
 Iam a software Engineer looking for new experiences and challenges and looking forward to enhance and enrich my knowledge being involved in large projects and being assigned to responsibilites relevant to my scope of interest
 
 #  <p align="center">Social Links </p>
-
+<img align="left" alt="Sedra" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" style="max-width: 100%;">
 #  <p align="center"> Iam Familiar with </p>
 <p align="center">
   <a href="https://skillicons.dev">
