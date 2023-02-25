@@ -9,7 +9,7 @@ Iam a software Engineer looking for new experiences and challenges and looking f
 
 <p align="center"> 
 
-</a align="center" href="https://www.linkedin.com/in/kirolossedra/" rel="nofollow">
+</a align="center" href="https://www.linkedin.com/in/kirolossedra/" >
 <img align="Center" alt="Sedra" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" style="max-width: 100%;"></a>
 
 
