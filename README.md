@@ -10,7 +10,7 @@ Iam a software Engineer looking for new experiences and challenges and looking f
 #  <p align="center"> Iam Familiar with </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,flutter,cpp,c,java,qt,html,css,javascript,python,matlab,linux" />
+    <img src="https://skillicons.dev/icons?i=github,flutter,cpp,c,java,qt,html,css,javascript,python,matlab,linux,unity" />
   </a>
 </p>
 
