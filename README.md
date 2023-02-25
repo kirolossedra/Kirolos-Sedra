@@ -1,7 +1,7 @@
 # <p align="center">Hello 👋  </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=856969&center=true&vCenter=true&width=435&lines=Iam+Kirolos+Sedra)](https://git.io/typing-svg)
-
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=856969&center=true&vCenter=true&width=435&lines=Iam+Kirolos+Sedra)](https://git.io/typing-svg)
+  </p>
 
 
 Iam a software Engineer looking for new experiences and challenges and looking forward to enhance and enrich my knowledge being involved in large projects and being assigned to responsibilites relevant to my scope of interest
