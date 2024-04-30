@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirolossedra&label=Profile%20views&color=0e75b6&style=flat" alt="kirolossedra" /> </p>
 
 
-
-                                              Iam an aspiring Software Engineer 
+Iam an aspiring Software Engineer 
 
 #  <p align="center">Social Links </p>
 
