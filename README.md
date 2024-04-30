@@ -14,7 +14,7 @@ Iam a software Engineer looking for new experiences and challenges and looking f
 
 
  <a href="https://www.linkedin.com/in/kirolossedra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kirolos Sedra" height="30" width="40" /></a>
- <img align="center" alt="Kirolos Sedra" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" style="max-width: 100%;"></a>
+
 
 
 <a align="center" href="mailto:kirolossedra.cse@gmail.com">
