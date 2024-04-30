@@ -6,7 +6,7 @@
 
 
 
-Iam an aspiring Software Engineer 
+                                              Iam an aspiring Software Engineer 
 
 #  <p align="center">Social Links </p>
 
