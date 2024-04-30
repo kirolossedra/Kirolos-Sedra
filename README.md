@@ -2,6 +2,9 @@
 
 # <p align="center">   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=856969&center=true&width=435&lines=Iam+Kirolos+Sedra)](https://git.io/typing-svg)  </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirolossedra&label=Profile%20views&color=0e75b6&style=flat" alt="kirolossedra" /> </p>
+
+
 
 Iam a software Engineer looking for new experiences and challenges and looking forward to enhance and enrich my knowledge being involved in large projects and being assigned to responsibilites relevant to my scope of interest
 
