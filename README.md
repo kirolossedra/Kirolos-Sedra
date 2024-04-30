@@ -7,6 +7,8 @@
 
 Iam an aspiring Software Engineer 
 
+# <p align="center">Iam an aspiring Software Engineer   </p>
+
 #  <p align="center">Social Links </p>
 
 <p align="center"> 
