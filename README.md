@@ -19,7 +19,7 @@
 #  <p align="center"> Iam Familiar with </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,flutter,cpp,cmake,c,java,qt,css,javascript,py,matlab,linux,unity,tensorflow,opencv,ros,azure,pytorch,dart,docker,git,gitlab,github,kubernetes,maven,postman,mongodb,apple,spring,regex,sklearn;" />
+    <img src="https://skillicons.dev/icons?i=github,flutter,cpp,cmake,c,java,qt,css,javascript,py,matlab,linux,unity,tensorflow,opencv,ros,azure,pytorch,dart,docker,git,gitlab,github,kubernetes,maven,postman,mongodb,apple,spring,regex,sklearn,;" />
   </a>
 </p>
 
