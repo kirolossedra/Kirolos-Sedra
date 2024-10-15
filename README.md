@@ -26,8 +26,7 @@
 
 
 
-![image](https://github.com/user-attachments/assets/446a3e42-c571-4b8c-abdf-bc47391ac13f)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
 
 
