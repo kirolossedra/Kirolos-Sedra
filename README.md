@@ -23,7 +23,7 @@
   </a>
 </p>
 
-# <p align="center">![](https://github-readme-stats.vercel.app/api?username=kirolossedra&show_icons=true&theme=transparent)  </p>
+
 
 
 
