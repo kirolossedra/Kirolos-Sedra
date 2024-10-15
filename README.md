@@ -30,3 +30,36 @@
 
 
 
+
+
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#87CEEB" />
+  
+  <!-- Platform -->
+  <rect x="50" y="200" width="400" height="20" fill="#654321" />
+  
+  <!-- Player -->
+  <circle id="player" cx="60" cy="180" r="15" fill="#FF6347" />
+  
+  <!-- Obstacle -->
+  <rect x="250" y="180" width="20" height="20" fill="#000" />
+  
+  <!-- Goal -->
+  <rect x="450" y="180" width="20" height="20" fill="gold" />
+  
+  <style>
+    #player {
+      animation: movePlayer 5s infinite alternate;
+    }
+
+    @keyframes movePlayer {
+      0% { cx: 60; }
+      25% { cx: 150; cy: 150; } /* Jump */
+      50% { cx: 250; cy: 180; } /* Land before obstacle */
+      75% { cx: 350; cy: 150; } /* Jump over obstacle */
+      100% { cx: 450; cy: 180; } /* Reach the goal */
+    }
+  </style>
+</svg>
+
