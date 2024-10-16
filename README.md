@@ -31,8 +31,5 @@
 
 
 
-## Play My Platformer
-
-<iframe src="https://kirolossedra.github.io/Egypt/" width="100%" height="500px"></iframe>
 
 
